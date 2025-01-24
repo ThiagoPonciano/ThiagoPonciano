@@ -1,4 +1,14 @@
 # Thiago Ponciano
+# EN
+### About me
+I hold a degree in Information Systems, and I am passionate about innovation, results-driven, with experience in systems and data analysis, investment portfolio management, client portfolio management, financial markets, and customer service.
+
+Constantly seeking to learn and grow, I am revisiting my foundational skills in programming logic, databases, data analysis, and object-oriented programming. I am currently studying and working with technologies such as C#, Python, .NET Framework, Azure, SQL (MSSQL, MySQL, Oracle), and focusing on Back-End development, API integration, and microservices architecture.
+
+I strongly believe in the transformative power of technology to improve everyday life and create valuable consumer experiences. My goal is to leverage technology to foster innovation and enhance client interaction—making the use of a product or service natural and simple. I aim to anticipate and understand real user needs, ensure product quality, deliver ideal user experiences, and ultimately generate value for the company.
+
+# PT-BR
+### Sobre mim
 Sou graduado em Sistemas de Informação, apaixonado por inovação, dedicado a resultados, com experiência nas áreas de análise de sistemas e dados, gerenciamento de portfolios de investimentos, gerenciamento de carteira de clientes, mercado financeiro, atendimento ao cliente.
 
 Em busca constante por aprendizado, tenho buscado reviver minhas experiências com lógica de programação, banco de dados, análise de dados, programação orientada a objetos. 
