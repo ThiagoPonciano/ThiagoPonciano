@@ -9,12 +9,11 @@ I strongly believe in the transformative power of technology to improve everyday
 
 # PT-BR
 ### Sobre mim
-Sou graduado em Sistemas de Informação, apaixonado por inovação, dedicado a resultados, com experiência nas áreas de análise de sistemas e dados, gerenciamento de portfolios de investimentos, gerenciamento de carteira de clientes, mercado financeiro, atendimento ao cliente.
+Sou graduado em Sistemas de Informação, apaixonado por inovação e orientado a resultados, com experiência nas áreas de análise de sistemas e dados, gerenciamento de portfólios de investimentos, gestão de carteira de clientes, mercado financeiro e atendimento ao cliente.
 
-Em busca constante por aprendizado, tenho buscado reviver minhas experiências com lógica de programação, banco de dados, análise de dados, programação orientada a objetos. 
-Estudando e aprendendo sobre C#,Azure, Sql, e atuação em BackEnd.
+Buscando constantemente aprender e crescer, estou revisitando minhas bases em lógica de programação, bancos de dados, análise de dados e programação orientada a objetos. Atualmente, estudo e trabalho com tecnologias como C#, Python, .NET Framework, Azure, SQL (MSSQL, MySQL, Oracle), com foco em desenvolvimento Back-End, integração de APIs e arquitetura de microsserviços.
 
-Acredito fortemente no quanto a tecnologia pode auxiliar e melhorar o dia a dia de cada pessoa e como auxilia na construção de uma experiência de valor ao consumidor. Meu objetivo é utilizar a tecnologia, abrindo espaço para inovar e melhorar a interação com o cliente, tornar natural e simples o uso de um determinado serviço ou produto, antecipar e entender as reais necessidades de utilização, garantir a qualidade dos produtos, proporcionar a experiência ideal aos usuários e consequentemente agregar valor a empresa.
+Acredito fortemente no poder transformador da tecnologia para melhorar o dia a dia das pessoas e criar experiências valiosas para os consumidores. Meu objetivo é utilizar a tecnologia para fomentar inovação e aprimorar a interação com o cliente—tornando o uso de produtos ou serviços natural e simples. Almejo antecipar e compreender as reais necessidades dos usuários, garantir a qualidade dos produtos, proporcionar experiências ideais aos usuários e, consequentemente, gerar valor para a empresa.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagovponciano/)
