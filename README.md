@@ -29,7 +29,6 @@ Acredito fortemente no poder transformador da tecnologia para melhorar o dia a d
 
 ## Bibliotecas e Frameworks
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ## Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,6 +40,9 @@ Acredito fortemente no poder transformador da tecnologia para melhorar o dia a d
 
 ## Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio&theme=dark)](https://skillicons.dev)
+[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq&theme=dark)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)](https://skillicons.dev)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
