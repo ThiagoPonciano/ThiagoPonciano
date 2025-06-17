@@ -3,7 +3,7 @@
 ### About me
 I hold a degree in Information Systems, and I am passionate about innovation, results-driven, with experience in systems and data analysis, investment portfolio management, client portfolio management, financial markets, and customer service.
 
-Constantly seeking to learn and grow, I am revisiting my foundational skills in programming logic, databases, data analysis, and object-oriented programming. I am currently studying and working with technologies such as C#, Python, .NET Framework, Azure, SQL (MSSQL, MySQL, Oracle), and focusing on Back-End development, API integration, and microservices architecture.
+Constantly seeking to learn and grow, I am revisiting my foundational skills in programming logic, databases, data analysis, and object-oriented programming. I am currently studying and working with technologies such as C#, .NET Core, .NET Framework, Azure DevOps, SQL (MSSQL, MySQL, Oracle), and focusing on Backend development, API integration, clean architecture and DDD.
 
 I strongly believe in the transformative power of technology to improve everyday life and create valuable consumer experiences. My goal is to leverage technology to foster innovation and enhance client interaction—making the use of a product or service natural and simple. I aim to anticipate and understand real user needs, ensure product quality, deliver ideal user experiences, and ultimately generate value for the company.
 
@@ -11,7 +11,7 @@ I strongly believe in the transformative power of technology to improve everyday
 ### Sobre mim
 Sou graduado em Sistemas de Informação, apaixonado por inovação e orientado a resultados, com experiência nas áreas de análise de sistemas e dados, gerenciamento de portfólios de investimentos, gestão de carteira de clientes, mercado financeiro e atendimento ao cliente.
 
-Buscando constantemente aprender e crescer, estou revisitando minhas bases em lógica de programação, bancos de dados, análise de dados e programação orientada a objetos. Atualmente, estudo e trabalho com tecnologias como C#, Python, .NET Framework, Azure, SQL (MSSQL, MySQL, Oracle), com foco em desenvolvimento Back-End, integração de APIs e arquitetura de microsserviços.
+Buscando constantemente aprender e crescer, estou revisitando minhas bases em lógica de programação, bancos de dados, análise de dados e programação orientada a objetos. Atualmente, estudo e trabalho com tecnologias como C#, .NET Core, .NET Framework, Azure DevOps, SQL (MSSQL, MySQL, Oracle), com foco em desenvolvimento Backend, integração de APIs, clean architecture e DDD.
 
 Acredito fortemente no poder transformador da tecnologia para melhorar o dia a dia das pessoas e criar experiências valiosas para os consumidores. Meu objetivo é utilizar a tecnologia para fomentar inovação e aprimorar a interação com o cliente—tornando o uso de produtos ou serviços natural e simples. Almejo antecipar e compreender as reais necessidades dos usuários, garantir a qualidade dos produtos, proporcionar experiências ideais aos usuários e, consequentemente, gerar valor para a empresa.
 
