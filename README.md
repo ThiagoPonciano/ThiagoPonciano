@@ -1,54 +1,56 @@
 # Thiago Ponciano
-# EN
+
+## English
+
 ### About me
-I hold a degree in Information Systems, and I am passionate about innovation, results-driven, with experience in systems and data analysis, investment portfolio management, client portfolio management, financial markets, and customer service.
+Software Engineer working across the stack, with a primary focus on backend development in C#/.NET, building APIs with Clean Architecture, CQRS through MediatR, and FluentValidation for validation pipelines. I also work on the frontend with React, Vue, Angular and TypeScript when the project calls for it. I care about systems that stay easy to test, extend, and reason about as they grow.
 
-Constantly seeking to learn and grow, I am revisiting my foundational skills in programming logic, databases, data analysis, and object-oriented programming. I am currently studying and working with technologies such as C#, .NET Core, .NET Framework, Azure DevOps, SQL (MSSQL, MySQL, Oracle), and focusing on Backend development, API integration, clean architecture and DDD.
+Before software development, I worked in financial markets, investment portfolio management, and client relations at Santander and Bradesco. That background now shapes how I approach fintech and financial systems: I understand the business logic behind a requirement, not just the code that implements it.
 
-I strongly believe in the transformative power of technology to improve everyday life and create valuable consumer experiences. My goal is to leverage technology to foster innovation and enhance client interaction—making the use of a product or service natural and simple. I aim to anticipate and understand real user needs, ensure product quality, deliver ideal user experiences, and ultimately generate value for the company.
+Currently deepening backend fundamentals (Redis caching, Azure Blob Storage, API design) and expanding into cloud and AI integration. Open to software engineering opportunities, particularly in fintech and financial services.
 
-# PT-BR
+## Português
+
 ### Sobre mim
-Sou graduado em Sistemas de Informação, apaixonado por inovação e orientado a resultados, com experiência nas áreas de análise de sistemas e dados, gerenciamento de portfólios de investimentos, gestão de carteira de clientes, mercado financeiro e atendimento ao cliente.
+Software Engineer com atuação em toda a stack, com foco principal em backend com C#/.NET, construindo APIs com Clean Architecture, CQRS via MediatR e FluentValidation para pipelines de validação. Também atuo no frontend com React, Vue, Angular e TypeScript quando o projeto pede. Me importo com sistemas que continuam fáceis de testar, estender e entender conforme crescem.
 
-Buscando constantemente aprender e crescer, estou revisitando minhas bases em lógica de programação, bancos de dados, análise de dados e programação orientada a objetos. Atualmente, estudo e trabalho com tecnologias como C#, .NET Core, .NET Framework, Azure DevOps, SQL (MSSQL, MySQL, Oracle), com foco em desenvolvimento Backend, integração de APIs, clean architecture e DDD.
+Antes do desenvolvimento de software, trabalhei com mercado financeiro, gestão de carteiras de investimento e relacionamento com clientes no Santander e no Bradesco. Essa vivência hoje molda a forma como penso sistemas fintech e financeiros: entendo a lógica de negócio por trás de um requisito, não só o código que o implementa.
 
-Acredito fortemente no poder transformador da tecnologia para melhorar o dia a dia das pessoas e criar experiências valiosas para os consumidores. Meu objetivo é utilizar a tecnologia para fomentar inovação e aprimorar a interação com o cliente—tornando o uso de produtos ou serviços natural e simples. Almejo antecipar e compreender as reais necessidades dos usuários, garantir a qualidade dos produtos, proporcionar experiências ideais aos usuários e, consequentemente, gerar valor para a empresa.
+No momento, estou aprofundando fundamentos de backend (cache com Redis, Azure Blob Storage, design de APIs) e me expandindo para cloud e integração com IA. Aberto a oportunidades em engenharia de software, principalmente em fintech e serviços financeiros.
 
-## Conecte-se comigo
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagovponciano/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoPonciano)
 
-## Linguagens de Programação - Conhecimentos acadêmico e básico
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-## Linguagem de Programação com maior proficiência
+## Core stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge)
+![MediatR](https://img.shields.io/badge/MediatR-1976D2?style=for-the-badge)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-EC5990?style=for-the-badge)
 
-
-## Bibliotecas e Frameworks
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-## Banco de dados
+## Data & cache
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![MSSql](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Cloud Computing Service
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+## Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-## Ferramentas
+## Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoPonciano&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
