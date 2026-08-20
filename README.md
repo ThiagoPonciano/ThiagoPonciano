@@ -7,7 +7,7 @@ Software Engineer working across the stack, with a primary focus on backend deve
 
 Before software development, I worked in financial markets, investment portfolio management, and client relations at Santander and Bradesco. That background now shapes how I approach fintech and financial systems: I understand the business logic behind a requirement, not just the code that implements it.
 
-On the backend, I work directly with database performance, writing and tuning SQL queries and stored procedures, and implementing cloud storage solutions on Azure Blob Storage and Oracle OCI Object Storage. I use Redis to cut response times and reduce load on critical paths, and manage CI/CD pipelines end to end in Azure DevOps, from build to release. I've also applied AI in corporate solutions, both as a feature inside business systems and as a tool to improve application performance. Open to software engineering opportunities, particularly in fintech and financial services.
+On the backend, I work directly with database performance, writing and tuning SQL queries and stored procedures, and implementing cloud storage solutions on Azure Blob Storage and Oracle OCI Object Storage. I use Redis to cut response times and reduce load on critical paths, containerize services with Docker, and manage CI/CD pipelines end to end in Azure DevOps, from build to release. I've also applied AI in corporate solutions, both as a feature inside business systems and as a tool to improve application performance. Open to software engineering opportunities, particularly in fintech and financial services.
 
 ## Português
 
@@ -16,7 +16,7 @@ Software Engineer com atuação em toda a stack, com foco principal em backend c
 
 Antes do desenvolvimento de software, trabalhei com mercado financeiro, gestão de carteiras de investimento e relacionamento com clientes no Santander e no Bradesco. Essa vivência hoje molda a forma como penso sistemas fintech e financeiros: entendo a lógica de negócio por trás de um requisito, não só o código que o implementa.
 
-No backend, atuo diretamente com performance de banco de dados, escrevendo e otimizando queries SQL e procedures, além de implementar soluções de armazenamento em nuvem com Azure Blob Storage e Oracle OCI Object Storage. Uso Redis para reduzir tempos de resposta e carga em pontos críticos, e gerencio pipelines de CI/CD de ponta a ponta no Azure DevOps, do build ao release. Também já apliquei IA em soluções corporativas, tanto como funcionalidade dentro de sistemas de negócio quanto como ferramenta para melhorar performance de aplicações. Aberto a oportunidades em engenharia de software, principalmente em fintech e serviços financeiros.
+No backend, atuo diretamente com performance de banco de dados, escrevendo e otimizando queries SQL e procedures, além de implementar soluções de armazenamento em nuvem com Azure Blob Storage e Oracle OCI Object Storage. Uso Redis para reduzir tempos de resposta e carga em pontos críticos, containerizo serviços com Docker e gerencio pipelines de CI/CD de ponta a ponta no Azure DevOps, do build ao release. Também já apliquei IA em soluções corporativas, tanto como funcionalidade dentro de sistemas de negócio quanto como ferramenta para melhorar performance de aplicações. Aberto a oportunidades em engenharia de software, principalmente em fintech e serviços financeiros.
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagovponciano/)
@@ -35,8 +35,11 @@ No backend, atuo diretamente com performance de banco de dados, escrevendo e oti
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
-## Cloud
+## Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Oracle Cloud (OCI)](https://img.shields.io/badge/Oracle_Cloud_(OCI)-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
